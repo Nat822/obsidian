@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "30206977b0519380",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/2026-07-11-title-ai-powered-code-generation-bridging-user-stories-and-automated-development/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +59,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -196,25 +211,38 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "28f9cdf105fe0ad3",
+  "active": "97205a85fb6a3782",
   "lastOpenFiles": [
-    "content/posts/2025-12-19-samyy-luchshiy-post/index.md",
+    "content/posts/2026-07-11-title-ai-powered-code-generation-bridging-user-stories-and-automated-development/attachments/images-github.png",
+    "content/posts/Без названия.md",
+    "content/posts/2026-07-11-title-ai-powered-code-generation-bridging-user-stories-and-automated-development/index.md",
+    "content/posts/2026-07-11-title-ai-powered-code-generation-bridging-user-stories-and-automated-development/attachments",
+    "content/posts/2026-07-11-title-ai-powered-code-generation-bridging-user-stories-and-automated-development",
+    "templates/init-paperMod.md",
     "content/posts/2025-12-19-push-salo-dlya-evm/index.md",
+    "static/orig.jpg",
+    "static/favicon-256x256.jpg",
+    "static/favicon-16x16.jpg",
+    "static/favicon-32x32.jpg",
+    "static/favicon-48x48.jpg",
+    "content/posts/2025-12-19-push-salo-dlya-evm/attachments/images-github.png",
+    "content/posts/2025-12-19-push-salo-dlya-evm/attachments/cover.png",
+    "content/posts/_index.md",
+    "content/posts/2025-12-19-samyy-luchshiy-post/index.md",
     "content/posts/2025-12-19-samyy-luchshiy-post/attachments",
     "content/posts/2025-12-19-samyy-luchshiy-post",
     "readme.md",
-    "content/posts/2025-12-19-push-salo-dlya-evm/attachments/cover.png",
     "content/posts/2025-12-19-push-salo-dlya-evm/attachments",
     "content/posts/2025-12-19-push-salo-dlya-evm/cover.png",
     "layouts/partials/google_analytics.html",
@@ -222,23 +250,13 @@
     "layouts",
     "themes/PaperMod/theme.toml",
     "themes/PaperMod/layouts/partials/templates/_funcs/get-page-images.html",
-    "themes/PaperMod/layouts/partials/templates/_funcs",
-    "themes/PaperMod/layouts/partials/templates/twitter_cards.html",
     "themes/PaperMod/images/tn.png",
     "themes/PaperMod/images/screenshot.png",
     "themes/PaperMod/README.md",
-    "content/posts/_index.md",
     "content/posts/2025-12-12-auto-post-publishing-obsidian-github-actions-linux-server/index.md",
     "archetypes/default.md",
     "content/posts/2025-12-12-nastraivaem-cline-ispolzovat-qwen-coder-cherez-api-ot-cloud.ru/index.md",
     "content/posts/2025-12-12.md",
-    "content/posts/2025-12-12-nastraivaem-cline-ispolzovat-qwen-coder-cherez-api-ot-cloud.ru/attachments/cover.png",
-    "content/posts/2025-12-12-nastraivaem-cline-ispolzovat-qwen-coder-cherez-api-ot-cloud.ru/attachments/Pasted image 20251212014027.png",
-    "content/posts/2025-12-12-nastraivaem-cline-ispolzovat-qwen-coder-cherez-api-ot-cloud.ru/attachments/Pasted image 20251212013940.png",
-    "content/posts/2025-12-12-nastraivaem-cline-ispolzovat-qwen-coder-cherez-api-ot-cloud.ru/attachments/Pasted image 20251212013642.png",
-    "content/posts/2025-12-12-nastraivaem-cline-ispolzovat-qwen-coder-cherez-api-ot-cloud.ru/attachments/Pasted image 20251212013414.png",
-    "content/posts/2025-12-12-nastraivaem-cline-ispolzovat-qwen-coder-cherez-api-ot-cloud.ru/attachments/Pasted image 20251212013347.png",
-    "templates/init-paperMod.md",
     "content/posts/2025-12-11-novaya-zametka-s-kartinkoy/index.md",
     "content/posts/2025-12-11-eshche-odin-post-s-kartinkoy/index.md",
     "content/posts/2025-12-09-post-s-kartinkoy/index.md",
