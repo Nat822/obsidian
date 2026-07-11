@@ -9,7 +9,7 @@ buildDrafts: false
 # If today is 19 of November 2025, and you publish post today, yor post won't be visible without this flag to true
 buildFuture: true
 # I have errors with image links due to http/https issues
-canonifyURLs: true
+canonifyURLs: false
 
 # Force HTTPS
 relativeURLs: false
@@ -37,7 +37,7 @@ params:
     enabled: true
     title: "AiDev Blog"
     subtitle: "We build things that live forever and die in one day"
-    imageUrl: "/intro-image.jpg" # Optional: add profile image path like "/images/avatar.png"
+    imageUrl: "intro-image.jpg" # Optional: add profile image path like "/images/avatar.png"
     imageWidth: 120
     imageHeight: 120
     buttons:
