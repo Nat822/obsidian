@@ -37,7 +37,7 @@ params:
     enabled: true
     title: "AiDev Blog"
     subtitle: "We build things that live forever and die in one day"
-    imageUrl: "/static/intro-image.jpg" # Optional: add profile image path like "/images/avatar.png"
+    imageUrl: "/intro-image.jpg" # Optional: add profile image path like "/images/avatar.png"
     imageWidth: 120
     imageHeight: 120
     buttons:
