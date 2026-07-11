@@ -1,6 +1,6 @@
 baseURL: "https://nat822.github.io/obsidian-github-notes/"
 languageCode: "en-us"
-title: "ELBU"
+title: "AiDev Blog"
 theme: "PaperMod"
 
 # Don't publish drafts
@@ -23,6 +23,7 @@ params:
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   mainSections: ["posts"]
+  copyright: "© 2026 AIDev Blog · Powered by Hugo & PaperMod"
 
   # Favicon configuration
   assets:
@@ -34,7 +35,7 @@ params:
   # Profile mode - cleaner home page layout
   profileMode:
     enabled: true
-    title: "Eternal Laws of Borderless Universe"
+    title: "AiDev Blog"
     subtitle: "We build things that live forever and die in one day"
     imageUrl: "" # Optional: add profile image path like "/images/avatar.png"
     imageWidth: 120
