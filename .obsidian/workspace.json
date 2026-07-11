@@ -222,11 +222,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "97205a85fb6a3782",
+  "active": "30206977b0519380",
   "lastOpenFiles": [
-    "content/posts/2026-07-11-title-ai-powered-code-generation-bridging-user-stories-and-automated-development/attachments/images-github.png",
     "content/posts/Без названия.md",
     "content/posts/2026-07-11-title-ai-powered-code-generation-bridging-user-stories-and-automated-development/index.md",
+    "content/posts/_index.md",
+    "content/posts/2026-07-11-title-ai-powered-code-generation-bridging-user-stories-and-automated-development/attachments/images-github.png",
     "content/posts/2026-07-11-title-ai-powered-code-generation-bridging-user-stories-and-automated-development/attachments",
     "content/posts/2026-07-11-title-ai-powered-code-generation-bridging-user-stories-and-automated-development",
     "templates/init-paperMod.md",
@@ -238,7 +239,6 @@
     "static/favicon-48x48.jpg",
     "content/posts/2025-12-19-push-salo-dlya-evm/attachments/images-github.png",
     "content/posts/2025-12-19-push-salo-dlya-evm/attachments/cover.png",
-    "content/posts/_index.md",
     "content/posts/2025-12-19-samyy-luchshiy-post/index.md",
     "content/posts/2025-12-19-samyy-luchshiy-post/attachments",
     "content/posts/2025-12-19-samyy-luchshiy-post",
@@ -251,7 +251,6 @@
     "themes/PaperMod/theme.toml",
     "themes/PaperMod/layouts/partials/templates/_funcs/get-page-images.html",
     "themes/PaperMod/images/tn.png",
-    "themes/PaperMod/images/screenshot.png",
     "themes/PaperMod/README.md",
     "content/posts/2025-12-12-auto-post-publishing-obsidian-github-actions-linux-server/index.md",
     "archetypes/default.md",
